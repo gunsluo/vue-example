@@ -8,7 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "buefy": "^0.6.6",
     "client-oauth2": "^4.2.1",
     "node-sass": "^4.9.3",
